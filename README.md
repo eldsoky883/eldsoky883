@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Eldsoky</h1>
 <h3 align="center">SOC Analyst & Incident Response</h3>
+- 💬 Ask me about **SOC operations, Log Analysis, SIEM, Suricata, Network Monitoring, or Incident Response**
 
 - 🌱 I’m currently learning **Threat Hunting and Digital Forensics**
 
-- 💬 Ask me about **SOC operations, Log Analysis, SIEM, Suricata, Network Monitoring, or Incident Response**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eldsoky883](https://github.com/eldsoky883)
 
